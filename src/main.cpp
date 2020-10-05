@@ -17,7 +17,7 @@ void on_update()
 {
 	if (util::sdl_keydown(SDL_SCANCODE_RIGHT))
 	{
-		std::cout << "I should move right" << std::endl;
+		std::cout << "I should move to the right" << std::endl;
 	}
 }
 
